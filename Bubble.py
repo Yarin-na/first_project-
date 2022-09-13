@@ -121,6 +121,3 @@ def should_stop(bubbles_grid, bullet_bubble):
     return False
 
 '''
-
-
-    # TODO: implement
